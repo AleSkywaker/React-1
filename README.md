@@ -1,1 +1,3 @@
-# React-1
+# React proyect using vite and tailwindcss to create a list of pacients
+
+
